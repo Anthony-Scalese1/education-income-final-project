@@ -1,0 +1,26 @@
+Concept,Variable,varname,Variable Description,Values/Codes,"Notes, including data source"
+Weather ,Tornadoes,tornado,How many tornado in the past 10 years?,Measured 10 years of tornadoes ,https://www.spc.noaa.gov/wcm/ustormaps/2016-2025-stateavgtornadoes.png 
+Weather ,Hurricanes ,hurricane,What are the amount of hurricanes occurred in the past 5 years, Measured 5 years of hurricanes,Historical Hurricane Tracks
+Weather ,Wind Turbines,wind_turbines,How many number of wind turbines in the past 1 year,Measured 1 year of wind turbines ,https://worldpopulationreview.com/state-rankings/wind-turbines-by-state
+Weather ,Thunderstorm,thunderstorm,How many number of thunderstorm the past 4 years,Measured 4 years of thunderstorm,Total Lightning Counts by State from 2015 to 2019
+Weather ,Floods,flood,Average Cost of Flood Insurance by State 2018,Measured 1 year of floods,https://www.fixr.com/articles/a-visual-comparison-flood-insurance-vs-flood-damage-repair
+Size,Square ft. of each state,squareft,Square footage of each state,Measured the size of each state,https://www.census.gov/geographies/reference-files/2010/geo/state-area.html
+Weather ,hail,hail,How many times it hailed in 2025,Measured the number of severe hail,https://www.spc.noaa.gov/climo/summary/
+Weather ,Snowfall,snowfall,Average snowfall across all 50 states between 1985-2015,Measured in inches,https://en.wikipedia.org/wiki/List_of_snowiest_places_in_the_United_States_by_state
+Mean Income,Median Income ,median_income,Median income of households ,Measured median income 2021-24,https://fred.stlouisfed.org/release/tables?rid=249&eid=259515&od=#
+Carbon Footprint,Carbon Emission ,carbon_footprint,Number (metric ton) of carbon emission by state ,Measured CO2 emission 2026,https://www.governing.com/map-of-the-day/map-co2-emissions-by-state 
+Education ,Education Level ,ed_level,Number of people with an advanced (masters/PhD) degree,Measured advanced degrees ,https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_educational_attainment
+Water Fall,Rainfall,rain_fall,Level of precipitation per state ,Measured annual precipitation (in),https://www.currentresults.com/Weather/US/average-annual-state-precipitation.php
+Air Quality ,Air quality Index ,air_quality,What is the average aqi for a state during a specified year ,Measured in AQI ,https://hdpulse.nimhd.nih.gov/data-portal/physical/table?demo=234&demo_options=air_pollution_1&physicaltopic=002&physicaltopic_options=physical_2&race=00&race_options=race_1_all&sex=0&sex_options=sexboth_1&statefips=00&statefips_options=area_states
+Recycling ,Recycling Refund Program ,reycling_refund ,Does the state have a recycling refund program? ,"1 = yes, 2 = no ",https://www.rilegislature.gov/commissions/PBWC/commdocs/12-18-2023---50%20STATES%20of%20Recycling%20Eunomia%20Report%20December%202023.pdf 
+Geography ,U.S. Regions ,region  ,What region of the U.S. is the state located in ,"1= Northeast, 2= Midwest, 3= South, 4= West  ",https://www.census.gov/data/data-tools/survey-explorer/geo.html 
+Energy ,Energy Consumption ,energy_consumption  ,Total energy consumption in each state,Total energy consumption ,https://www.eia.gov/states/overview 
+Population ,State Population ,population,How many people live the state,Measured population in people ,https://www.statsamerica.org/sip/rank_list.aspx?rank_label=pop1
+Agriculture,Land in farms,farm_land,How many acres of land in the state are used as farmland,Measured in acres,https://www.visualcapitalist.com/mapped-farmland-by-state-in-2025/
+Transportation ,Average commute time ,commute_time,What is the average amount of time residents spend commuting to work? ,measured in minutes ,https://www.census.gov/newsroom/press-releases/2021/one-way-travel-time-to-work-rises.html
+Tourism ,State parks visited,park_visists,How many visits do state parks receive in a year,Number of visits,https://www.stateparks.org/
+Education ,HS graduation,graduation_rates,How many students graduated from HS in each state , Measured in percentages,https://www.wiche.edu/resources/the-class-of-2025-is-the-largest-graduating-high-school-class-in-u-s-history/
+Education ,Bachelor's degree,bachelors_degree,How many people got a bachelor's degree in each state,Measured in percentages,https://www.census.gov/newsroom/press-releases/2025/educational-attainment-data.html
+Education ,student teacher ratio,student_teacher,average teacher to student ratio in each state,Measured as a ratio,https://usschoolindex.org/student-teacher-ratio-by-state/
+Crime ,crime rates,crime_rates,Recorded crime rate in each state,Measured in percentages,https://ucr.fbi.gov/nibrs/crime-in-schools-and-colleges
+Education ,School enrollment,school_enrollment,how many stduents are enrolled in public schools in each state,number of students ,https://www.wiche.edu/resources/report-u-s-high-school-graduates-will-peak-next-year-then-most-states-will-see-steady-declines-through-2041/
